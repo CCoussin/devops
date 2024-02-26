@@ -39,15 +39,15 @@ As a result, dev teams ship insecure applications, security teams burn out, and 
 
 ----
 
-### 6 benefits of the DevSecOps model
+### 5 benefits of the DevSecOps model
 
-<img src="https://snyk.io/wp-content/uploads/devsecops-benefits-1.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="img/devsecops-benefits.jpg" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
 ### DevSecOps Adoption: Integrating Security into the CI/CD Pipeline
 
-<img src="https://snyk.io/wp-content/uploads/DevSecOps-Pipeline.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="img/devsecops-timeline.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
